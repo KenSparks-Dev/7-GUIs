@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.seven-guis {
+  padding: 20px;
+}
+.gui-header {
+  background: #e0e0e0;
+  border-radius: 5px 5px 0 0;
+  text-align: center;
+}
+.gui-results {
+  background: #ebebeb;
+  border-radius: 5px;
+}
+/* counter */
+.gui-1 {
+  width: 150px;
+  border-radius: 5px;
+}
+.counter {
+  display: flex;
+  padding: 0.8rem;
+  align-items: baseline;
+  justify-content: space-between;
+  border-radius: 0 0 5px 5px;
+}
+
+.counter button {
+  background: grayscale;
+  border: 1px solid;
+  width: 70px;
+  border-radius: 5px;
+  height: 25px;
+}
+
+/* Temp Conv Manual */
+.gui-2 {
+  margin-top: 20px;
+  width: 500px;
+}
+
+
